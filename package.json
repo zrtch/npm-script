@@ -1,0 +1,23 @@
+{
+  "name": "hello-npm-sciprt",
+  "version": "0.1.0",
+  "description": "hello-npm-script",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrtch/npm-script.git"
+  },
+  "author": "zrt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrtch/npm-script/issues"
+  },
+  "homepage": "https://github.com/zrtch/npm-script#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  }
+}
